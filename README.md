@@ -16,5 +16,5 @@ Projeto contruído do evento Next Level Week da Rocketseat.
 
 ## 🪪 Contato
 
-- [Linkedin](www.linkedin.com/in/rafaelborges93/)
+- [Linkedin](https://www.linkedin.com/in/rafaelborges93/)
 - r.borges_19@hotmail.com
